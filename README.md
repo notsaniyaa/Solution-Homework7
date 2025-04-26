@@ -107,4 +107,6 @@ This improves **flexibility**, **maintainability**, and **readability** of the c
 
 ---
 
+## How to Run
 
+![image](https://github.com/user-attachments/assets/1a4933de-5c11-41ee-a21e-e8d6dda1748d)
